@@ -1,0 +1,8 @@
+.env
+./.env
+database.db
+src/database.db
+dump.rdb
+node_modules
+logs
+*.log

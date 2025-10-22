@@ -1,0 +1,33 @@
+{
+  "name": "cv-evaluator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@chroma-core/default-embed": "^0.1.8",
+    "axios": "^1.12.2",
+    "bull": "^4.16.5",
+    "chromadb": "^3.0.17",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "joi": "^18.0.1",
+    "multer": "^2.0.2",
+    "pdf-parse": "^1.1.1",
+    "redis": "^5.8.3",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.7",
+    "uuid": "^13.0.0",
+    "winston": "^3.18.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
