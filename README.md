@@ -1,7 +1,6 @@
 # CV & Project Report Evaluation System
 
-<img width="641"  height="267" alt="Screenshot 2025-10-22 at 18 44 14" src="https://github.com/user-attachments/assets/7d89e5ac-9431-466c-86ef-62b562f681d3" />
-
+<img width="675" height="292" alt="Screenshot 2025-10-22 at 20 06 17" src="https://github.com/user-attachments/assets/1aee73b5-0d27-48b0-acef-f87c640dd5a5" />
 
 Sistem ini digunakan untuk mengevaluasi **CV** dan **Project Report** secara otomatis menggunakan Large Language Model (LLM).  
 Prosesnya mencakup upload dokumen, pemrosesan teks dari PDF, retrieval konteks dengan RAG, dan penyajian hasil evaluasi berupa skor dan feedback.
