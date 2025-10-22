@@ -3,7 +3,7 @@ const axios = require("axios");
 const logger = require("../config/logger");
 
 const GROQ_API_KEY = process.env.GROQ_API_KEY;
-const GROQ_MODEL = process.env.GROQ_MODEL || "llama-3.3-70b-versatile";
+const GROQ_MODEL = process.env.GROQ_MODEL;
 const TEMPERATURE = 0.3;
 
 logger.info("LLM Configuration loaded:", {
